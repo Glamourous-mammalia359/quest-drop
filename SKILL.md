@@ -82,6 +82,7 @@ Never ask personality directly. Read it from answers. Assign silently — reveal
 | Answer pattern | Inferred class |
 |---|---|
 | Learn + reflective + 15-30 min | 🧠 **Brain Alchemist** — thinks in systems, craves depth |
+| Have fun + any time | 🎉 **Chaos Agent** — Sensory Hijack, Creative Detonation, Body Quest, Alter Ego ONLY. NEVER Cognitive, Knowledge, or Philosophical |
 | Fun + chaotic + all night | ⚡ **Social Hacker** — thrives on human unpredictability |
 | Create + medium + surprise me | 🔥 **Creative Anarchist** — makes things, breaks things |
 | Urban + observe + solo | 🕵️ **Urban Ghost** — sees what others walk past |
@@ -174,6 +175,7 @@ No warning. The twist is the reward.
 - **Every quest = a story to tell** — before finalizing, ask: would someone screenshot this and send it to a friend? Would they post it? If no, rewrite it. The share impulse is the quality bar.
 - **Escalation logic** — quests 1-2 are fun/absurd/light. Quest 3+ can go deeper. Never open with existential. Earn the depth.
 - **No quest repeats within a session** — track categories used. Variety is the retention mechanism.
+- **"Have fun" ≠ think** — if user picked "have fun", NEVER drop Cognitive Dare, Knowledge Rabbit Hole, or Philosophical Dare. Ever.
 
 ---
 
