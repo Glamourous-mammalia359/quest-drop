@@ -1,0 +1,116 @@
+{
+  "version": "1.0",
+  "total": 10,
+  "quests": [
+    {
+      "id": "001",
+      "category": "SOCIAL ALCHEMY",
+      "mode": "group",
+      "difficulty": "medium",
+      "time": "2-3 hrs",
+      "cost": "free",
+      "title": "THE ALTER EGO EXPERIMENT",
+      "description": "Each person invents a full alter ego — name, job, tragic backstory, one weird obsession. Go somewhere with strangers and live as them for 90 minutes. No breaking character. Debrief over food and decide which version of yourselves you liked more.",
+      "xp": "Unlocked a version of yourself you might actually miss"
+    },
+    {
+      "id": "002",
+      "category": "URBAN ARCHAEOLOGY",
+      "mode": "solo",
+      "difficulty": "easy",
+      "time": "30-60 mins",
+      "cost": "free",
+      "title": "THE OLDEST DOOR",
+      "description": "Find the oldest-looking door in your area. Sit across from it for 10 minutes and write — or voice-memo — the story of the last person who walked through it and never came back. Then keep walking.",
+      "xp": "Saw a ghost no one else noticed"
+    },
+    {
+      "id": "003",
+      "category": "SENSORY HIJACK",
+      "mode": "both",
+      "difficulty": "easy",
+      "time": "45-90 mins",
+      "cost": "free",
+      "title": "ALIEN PLAYLIST WALK",
+      "description": "Pick a playlist completely alien to your taste. Walk somewhere familiar while it plays. Notice how the same streets look different. Screenshot one moment that hits different.",
+      "xp": "+200 perception points permanently"
+    },
+    {
+      "id": "004",
+      "category": "COLLECTIVE CHAOS",
+      "mode": "group",
+      "difficulty": "hard",
+      "time": "2+ hrs",
+      "cost": "free",
+      "title": "THE SECRET VOTE",
+      "description": "Everyone names one thing they've never told the group. Vote on which one becomes tonight's quest. No veto. No context needed. Just go.",
+      "xp": "The group will never be the same"
+    },
+    {
+      "id": "005",
+      "category": "CINEMATIC MISSION",
+      "mode": "solo",
+      "difficulty": "medium",
+      "time": "1-2 hrs",
+      "cost": "free",
+      "title": "THE UNSENT MESSAGE",
+      "description": "Go to a busy place. Pick one stranger — just observation, nothing weird. Build their entire life in your head: where they're going, what they had for breakfast, what keeps them up at night. Write them a one-sentence message you'll never send.",
+      "xp": "Felt empathy for someone who doesn't know you exist"
+    },
+    {
+      "id": "006",
+      "category": "PHILOSOPHICAL DARE",
+      "mode": "both",
+      "difficulty": "easy",
+      "time": "20-40 mins",
+      "cost": "free",
+      "title": "THE ROOFTOP SILENCE",
+      "description": "Find a rooftop, fire escape, or any elevated spot. Lie flat on your back. Stare up. Don't talk for exactly 4 minutes. Then say the first thing that comes out — no filtering.",
+      "xp": "Said something true for the first time in weeks"
+    },
+    {
+      "id": "007",
+      "category": "CREATIVE DETONATION",
+      "mode": "group",
+      "difficulty": "medium",
+      "time": "2-3 hrs",
+      "cost": "free",
+      "title": "THE ABSURD RULE GAME",
+      "description": "Everyone writes one absurd behavioral rule on a piece of paper (e.g. 'only speak in questions', 'compliment every inanimate object you touch', 'respond to everything with a 3-second delay'). Draw randomly. Live your rule for 2 hours.",
+      "xp": "Broke your personality and rebuilt it weirder"
+    },
+    {
+      "id": "008",
+      "category": "TIME WARP",
+      "mode": "solo",
+      "difficulty": "easy",
+      "time": "1-2 hrs",
+      "cost": "$5-10",
+      "title": "THE ANALOG HOUR",
+      "description": "Phone off, not silent — OFF. Go somewhere you've never been but always passed. Order something you can't pronounce. Pay cash. Talk to whoever's there. Exist in 1994 for an hour.",
+      "xp": "Remembered what boredom used to feel like before it got interesting"
+    },
+    {
+      "id": "009",
+      "category": "NIGHT MODE",
+      "mode": "group",
+      "difficulty": "medium",
+      "time": "1-2 hrs",
+      "cost": "free",
+      "title": "THE DARK WALK",
+      "description": "After midnight, walk somewhere familiar with all phones pocketed. No maps. No music. Navigate by memory and instinct only. First person to reach the destination picks where you eat. Last person pays.",
+      "xp": "Reclaimed your city from the algorithm"
+    },
+    {
+      "id": "010",
+      "category": "SOCIAL ALCHEMY",
+      "mode": "solo",
+      "difficulty": "hard",
+      "time": "1-2 hrs",
+      "cost": "free",
+      "title": "THE COLD INTERVIEW",
+      "description": "Find someone doing something mundane — waiting, working, sitting. Ask them one question: 'What's something you know that most people don't?' Listen. Don't give advice. Don't share your own story. Just receive.",
+      "xp": "Became a better conversationalist than 97% of people"
+    }
+  ]
+}
