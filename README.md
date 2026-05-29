@@ -1,140 +1,199 @@
 <div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ⚡ QUEST-DROP
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-**What to do when bored — AI quest generator for real-life adventures, solo or with friends.**
+**Stop doomscrolling. Get a quest.**
 
-No bars. No escape rooms. No "read a book."  
-Just experiences you'll actually talk about.
+AI-generated side quests for real life — solo adventures that build your mind,  
+group experiences that actually bring people closer.
 
-![MIT License](https://img.shields.io/badge/license-MIT-green)
-![Quests](https://img.shields.io/badge/quests-growing-orange)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)]()
+[![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange)]()
 
 </div>
 
----
+-----
 
 ## What is this?
 
-`quest-drop` is a Claude AI skill that generates **wildly unconventional side quests** on demand — for when you're bored, restless, or just done with the usual.
+`quest-drop` is a Claude AI skill that drops **personalized, unconventional side quests** based on who you are and what you need right now.
 
-Chat with it. Get a quest. Do it. Tell no one. Or tell everyone.
+Not a list. Not a chatbot. A quest architect.
 
-Works solo or with friends. Day or night. Any city, any budget.
+It asks you 3-5 quick questions, reads between the lines, and drops something you’d never think to do yourself — but will absolutely talk about later.
 
----
+-----
 
 ## How it works
 
-Just open Claude and type any of:
+Type any of these to start:
 
 ```
+/quest-drop
 quest
-drop a quest
 I'm bored
+drop a quest
 side quest
-what should I do
 ```
 
-You'll get something like:
+Then answer a few taps:
+
+### Solo path (3 questions)
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ QUEST-DROP
+
+Solo or squad?
+  A  Just me  ← you pick this
+
+Q2: What do you want from this?
+  A  Have fun / get out of my head
+  B  Build or create something
+  C  Learn / expand my mind
+  D  Surprise me
+
+Q3: How much time?
+  A  Quick (15 min)
+  B  Medium (30 min)
+  C  I got time (multi-day quest)
+```
+
+### Group path (5 questions)
+
+Asks how close you are, what the group needs, energy level, and time.  
+Adapts completely — **just met** gets ice-breakers, **best friends** gets vulnerability dares.
+
+-----
+
+## Then your quest drops
+
+```
 ⚡ QUEST DROPPED
-━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🎭 THE ALTER EGO EXPERIMENT
+🧠 THE COLD INDUSTRY MEMO
 
-You and your friends each invent a full alter ego — new name, job, 
-tragic backstory, one weird obsession. Go somewhere public and live 
-as them for 90 minutes. No breaking character. Debrief over food 
-and decide which version of yourself you liked more.
+Pick one industry you know nothing about — fishing logistics, funeral tech, 
+agricultural insurance. Research it for 30 min like you're pitching it tomorrow.
 
-🎯 Group  ⏱ 2–3 hrs  💸 Free  💀 Medium
-🏆 XP: Unlocked a version of yourself you might actually miss
+⏱ ~30 min  💸 Free  💀 Medium
 
-─ REROLL · HARDER · EASIER · SOLO · GROUP · MORE ─
+Done it? Type DONE ✓
+
+— REROLL · HARDER · EASIER —
 ```
 
----
+Short. Specific. Slightly uncomfortable. Exactly right.
+
+-----
+
+## Multi-day quests
+
+Choose “I got time” and get a **3-day arc** — 20 min per day, builds on itself:
+
+```
+⚡ QUEST DROPPED — 3-DAY ARC
+
+🎨 THE UGLY BEAUTIFUL PROJECT
+
+DAY 1 (~20 min): Find the ugliest object near you. Photograph it like it's in MoMA.
+DAY 2 (~20 min): Write 3 sentences about why it's actually beautiful.
+DAY 3 (~20 min): Show someone. Watch their face.
+
+💸 Free  💀 Easy
+
+Done Day 1? Type DONE ✓
+```
+
+-----
 
 ## Commands
 
-| Type this | Get this |
-|---|---|
-| `REROLL` | New quest, totally different energy |
-| `HARDER` | More commitment, higher stakes |
-| `EASIER` | Same spirit, lower friction |
-| `SOLO` | Just for you |
-| `GROUP 4` | For 4 people specifically |
-| `NIGHT MODE` | Quests that only work after dark |
-| `MORE` | Expand into a full quest arc |
-| Any vibe/location | Context-aware quest |
+|Type this|What happens                     |
+|---------|---------------------------------|
+|`REROLL` |New quest, remembers your answers|
+|`HARDER` |Raise the stakes                 |
+|`EASIER` |Same spirit, lower friction      |
+|`DONE`   |Log completion, track streak     |
+|`LOG`    |See your quest history + streak  |
+|`SAVE`   |Bookmark for later               |
+|`RESET`  |Start quiz over                  |
 
----
+-----
 
-## Quest Categories
+## Streak system
 
-| Category | What it feels like |
-|---|---|
-| 🧪 **SOCIAL ALCHEMY** | Unexpected human connection |
-| 🏚 **URBAN ARCHAEOLOGY** | Hidden layers of your city |
-| 💥 **CREATIVE DETONATION** | Make something absurd, now |
-| 🪞 **PHILOSOPHICAL DARE** | Confront something real |
-| 🌀 **SENSORY HIJACK** | Rewire your perception |
-| 🎬 **CINEMATIC MISSION** | You're the main character |
-| 🌪 **COLLECTIVE CHAOS** | Only works with 2+ people |
-| ⏳ **TIME WARP** | Feels like another decade |
-
----
-
-## Install the skill
-
-1. Copy [`SKILL.md`](./SKILL.md) into your Claude skills folder
-2. Start a new chat
-3. Type `quest` and hit send
-
-That's it.
-
----
-
-## Add your own quests
-
-Got a quest that belongs here? Open a PR and add it to [`quests.json`](./quests.json).
-
-Rules:
-- Must be unconventional (no bars, no escape rooms, no "learn a skill")
-- Must be immediately doable — no planning, no booking
-- Must be story-worthy — something you'd actually tell people about
-- Bonus: slight friction — the "wait, should we actually do this?" feeling
-
-```json
-{
-  "category": "SOCIAL ALCHEMY",
-  "mode": "group",
-  "difficulty": "medium",
-  "time": "2-3 hrs",
-  "cost": "free",
-  "title": "THE ALTER EGO EXPERIMENT",
-  "description": "Each person invents a full alter ego...",
-  "xp": "Unlocked a version of yourself you might actually miss"
-}
+```
+🔥 Quest 3 this week — you're on a streak.
+Next quest unlocks something rarer. Keep going.
 ```
 
----
+Complete 3 quests → unlock a **rare quest**. Harder. Weirder. Worth it.
+
+-----
+
+## Quest categories
+
+### Solo — builds something real
+
+|Category                   |What it develops                    |
+|---------------------------|------------------------------------|
+|🧠 **COGNITIVE DARE**       |Sharper thinking, new mental models |
+|💥 **CREATIVE DETONATION**  |Making something absurd or beautiful|
+|🌀 **SENSORY HIJACK**       |Rewires how you perceive things     |
+|🏚 **URBAN ARCHAEOLOGY**    |Sees what others walk past          |
+|🎬 **CINEMATIC MISSION**    |Self-awareness, empathy             |
+|📡 **KNOWLEDGE RABBIT HOLE**|One industry, deep fast             |
+|🪞 **PHILOSOPHICAL DARE**   |Confronts something real            |
+
+### Group — builds connection
+
+|Category                |Best for                            |
+|------------------------|------------------------------------|
+|🧊 **ICE BREAKER**       |Just met / barely know each other   |
+|💬 **DEEP TALK**         |Know each other, want to go deeper  |
+|🌪 **COLLECTIVE CHAOS**  |Close friends, no limits            |
+|🫀 **VULNERABILITY DARE**|Best friends, get real fast         |
+|🎨 **CREATIVE TOGETHER** |Make something as a group, right now|
+|🧪 **SOCIAL EXPERIMENT** |Go somewhere, do something, debrief |
+
+-----
+
+## Install
+
+1. Download [`SKILL.md`](./SKILL.md)
+1. Add it to your Claude skills folder
+1. Open Claude, type `quest`
+
+-----
+
+## Contribute a quest
+
+Got a quest that belongs here? PR it into [`quests.json`](./quests.json).
+
+Rules:
+
+- Unconventional — no bars, escape rooms, or “learn a skill”
+- Immediately doable — no planning, no booking
+- Story-worthy — something you’d actually tell people about
+- ≤ 30 min for solo, ≤ 2 hrs for group
+- Bonus: that “wait, should we actually do this?” feeling
+
+-----
 
 ## Philosophy
 
-Most "things to do" lists are written by people who have never been truly bored in an interesting way.
+Most “things to do” lists are written by people who’ve never been bored in an interesting way.
 
-`quest-drop` is built on one idea: **the best experiences have a moment of "wait, should we actually do this?"** — that's the signal it's worth doing.
+`quest-drop` is built on one belief: **the best experiences have a moment of “wait, should we actually do this?”** — that’s the signal it’s worth doing.
 
----
+For solo: every quest should build something — sharper thinking, a new perspective, a creative output, or just a story worth keeping.
+
+For groups: the best quest makes someone say something they didn’t plan to.
+
+-----
 
 <div align="center">
 
