@@ -6,7 +6,7 @@
 
 **Stop doomscrolling. Get a quest.**
 
-AI-generated side quests for real life — solo adventures that build your mind,  
+Side quest generator for real life — adventures that build your mind,  
 group experiences that actually bring people closer.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -19,7 +19,7 @@ group experiences that actually bring people closer.
 
 ## What is this?
 
-`quest-drop` is a Claude AI skill that drops **personalized, unconventional side quests** based on who you are and what you need right now.
+`quest-drop` is a Claude skill that drops **personalized, unconventional side quests** based on who you are and what you need right now.
 
 Not a list. Not a chatbot. A quest architect.
 
